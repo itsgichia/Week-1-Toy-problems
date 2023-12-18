@@ -28,5 +28,5 @@ function calculateNetSalary(basicSalary, benefits) {
 }
 
 // Example: Call the function with basic salary and benefits
-const salaryDetails = calculateNetSalary(78216.95, 2000);
+const salaryDetails = calculateNetSalary(50000, 2000);
 console.log(salaryDetails);
